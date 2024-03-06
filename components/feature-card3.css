@@ -1,0 +1,47 @@
+.feature-card3-feature-card {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  min-height: 300px;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("https://play.teleporthq.io/static/svg/default-img.svg");
+}
+.feature-card3-text {
+  color: var(--dl-color-gray-white);
+  font-size: 28px;
+  align-self: center;
+  font-style: normal;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: var(--dl-space-space-unit);
+  text-transform: none;
+  text-decoration: none;
+}
+.feature-card3-text1 {
+  color: var(--dl-color-gray-white);
+  font-size: 22px;
+  align-self: center;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 400;
+  text-transform: none;
+  text-decoration: none;
+}
+.feature-card3-root-class-name1 {
+  background-size: cover;
+  background-image: 1a1a2040-fdfd-4ca5-b39c-29f3b05ac8f4;
+}
+.feature-card3-root-class-name2 {
+  background-size: cover;
+  background-image: 7d4a7ea9-2fbb-4656-b00b-7868b18084df;
+}
+.feature-card3-root-class-name4 {
+  background-size: cover;
+  background-image: bf89de5f-d6ff-41a2-a267-00a52accb9ee;
+}
